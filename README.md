@@ -1,2 +1,4 @@
-# SLIMutils.jl
+# SLIMutils
+
 Collection of miscellaneous utilities
+
