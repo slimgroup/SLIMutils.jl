@@ -1,0 +1,7 @@
+name = "SLIMutils"
+uuid = "5fa294d4-f0dc-471b-88de-57e817637ec8"
+authors = ["Henryk Modzelewski <henryk_modzelewski@mac.com>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
