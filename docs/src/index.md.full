@@ -11,18 +11,18 @@ Modules = [SLIMutils]
 Order = [:module]
 ```
 
-## Functions
-
-```@autodocs
-Modules = [SLIMutils]
-Order = [:function]
-```
-
 ## Types
 
 ```@autodocs
 Modules = [SLIMutils]
 Order = [:type]
+```
+
+## Functions
+
+```@autodocs
+Modules = [SLIMutils]
+Order = [:function]
 ```
 
 ## Constants
